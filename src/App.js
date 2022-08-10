@@ -24,7 +24,7 @@ function App() {
       <div className="mt-20 text-center">
         <button className="rounded-md bg-orange-500 pr-3 pl-3 text-[24px] text-white" disabled>응원 수 : {Count}</button>
       </div>
-      <div className="absolute bottom-0 left-0 right-0 mb-2 text-center">
+      <div className="absolute bottom-0 left-0 right-0 mb-2 mt-2 text-center">
         <p className="text-neutral-600">(ง •̀ω•́)ง 화이팅!</p>
       </div>
     </div>
