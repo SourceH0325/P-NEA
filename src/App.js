@@ -15,7 +15,7 @@ function App() {
   return (
     <div>
       <div className="mt-20 text-center text-white">
-        <p className="text-[24px]">2023학년도 대학수학능력시험</p>
+        <p className="text-[24px]">2024학년도 대학수학능력시험</p>
         <p className="text-[90px]">D-{result}</p>
       </div>
       <div className="mt-20 text-center">
