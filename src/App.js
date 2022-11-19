@@ -8,7 +8,7 @@ function App() {
   }
 
   let today = new Date(),
-    dday = new Date("Nov 17,2022, 00:00:00").getTime(),
+    dday = new Date("Nov 16,2023, 08:40:00").getTime(),
     gap = dday - today,
     result = Math.floor(gap / (1000 * 60 * 60 * 24));
 
